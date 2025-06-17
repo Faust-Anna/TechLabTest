@@ -1,2 +1,3 @@
 This is some random text to test staging and committing files.
 Put some changes in the file usind github interface.
+add another line for exercise 4 of the second week.
